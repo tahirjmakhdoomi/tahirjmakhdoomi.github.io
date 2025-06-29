@@ -100,6 +100,7 @@ export const portfolioData: PortfolioData = {
       { name: "Certificate of Honor from CETPA for remarkable performance", year: "" },
   ],
   news: [
+      { date: "June 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025.", link: "#" },
       { date: "2024", title: "Received the Microsoft Research India PhD Award.", link: "#" },
       { date: "2024", title: "Our paper 'LAHAJA' was accepted to Interspeech 2024.", link: "" },
       { date: "2024", title: "Our paper 'IndicVoices' was accepted to Findings of ACL 2024." },
