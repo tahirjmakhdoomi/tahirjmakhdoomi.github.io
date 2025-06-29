@@ -12,8 +12,6 @@ export const portfolioData: PortfolioData = {
     "Multilingual ASR",
     "Low-Resource Languages",
     "Continual Learning",
-    "Deep Learning",
-    "Speech Datasets",
     "Natural Language Processing"
   ],
   experience: [
