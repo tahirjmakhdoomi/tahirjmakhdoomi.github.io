@@ -14,38 +14,38 @@ export const portfolioData: PortfolioData = {
     "Continual Learning",
     "Natural Language Processing"
   ],
-  experience: [
-    {
-      role: "Teaching Assistant",
-      organization: "Indian Institute of Technology Madras",
-      duration: "Jul 2021 - Nov 2022",
-      description: "Assisted in teaching Linear Algebra and Random Processes (CS6015 & CS6015) and Fundamentals of Deep Learning (CS6910)."
-    },
-    {
-      role: "Software Engineer",
-      organization: "CGI Information Systems and Management Consultations",
-      duration: "Dec 2020 - Jan 2021",
-      description: "Worked as a Java Backend Developer."
-    },
-    {
-      role: "Full Stack Trainee – Immersive Batch",
-      organization: "Stackroute - NIIT",
-      duration: "Sep 2020 - Dec 2020",
-      description: "Worked on front-end, back-end, and integration of web apps with hands-on experience in Angular, JavaScript, HTML, CSS, Bootstrap, Spring Boot, Java, MySQL, MongoDB, Docker, and Grafana."
-    },
-    {
-      role: "Research Intern",
-      organization: "Computational Intelligence Lab - IISc",
-      duration: "Dec 2018 - Feb 2019",
-      description: "Worked on SafalFasal, an automatic crop monitoring system for sugarcane. Built and deployed an end-to-end inference engine using Flask, FastAI, an Android App, and Google Cloud Engine."
-    },
-    {
-      role: "Java/Android Trainee",
-      organization: "CETPA Infotech Pvt. Ltd.",
-      duration: "Dec 2017 - Jan 2018",
-      description: "Trained on the fundamentals of Java and Android development."
-    }
-  ],
+  // experience: [
+  //   {
+  //     role: "Teaching Assistant",
+  //     organization: "Indian Institute of Technology Madras",
+  //     duration: "Jul 2021 - Nov 2022",
+  //     description: "Assisted in teaching Linear Algebra and Random Processes (CS6015 & CS6015) and Fundamentals of Deep Learning (CS6910)."
+  //   },
+  //   {
+  //     role: "Software Engineer",
+  //     organization: "CGI Information Systems and Management Consultations",
+  //     duration: "Dec 2020 - Jan 2021",
+  //     description: "Worked as a Java Backend Developer."
+  //   },
+  //   {
+  //     role: "Full Stack Trainee – Immersive Batch",
+  //     organization: "Stackroute - NIIT",
+  //     duration: "Sep 2020 - Dec 2020",
+  //     description: "Worked on front-end, back-end, and integration of web apps with hands-on experience in Angular, JavaScript, HTML, CSS, Bootstrap, Spring Boot, Java, MySQL, MongoDB, Docker, and Grafana."
+  //   },
+  //   {
+  //     role: "Research Intern",
+  //     organization: "Computational Intelligence Lab - IISc",
+  //     duration: "Dec 2018 - Feb 2019",
+  //     description: "Worked on SafalFasal, an automatic crop monitoring system for sugarcane. Built and deployed an end-to-end inference engine using Flask, FastAI, an Android App, and Google Cloud Engine."
+  //   },
+  //   {
+  //     role: "Java/Android Trainee",
+  //     organization: "CETPA Infotech Pvt. Ltd.",
+  //     duration: "Dec 2017 - Jan 2018",
+  //     description: "Trained on the fundamentals of Java and Android development."
+  //   }
+  // ],
   publications: [
     {
       title: "LAHAJA: A Robust Multi-accent Benchmark for Evaluating Hindi ASR Systems",

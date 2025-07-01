@@ -7,12 +7,12 @@ export interface Contact {
   twitter: string;
 }
 
-export interface Experience {
-  role: string;
-  organization: string;
-  duration: string;
-  description: string;
-}
+// export interface Experience {
+//   role: string;
+//   organization: string;
+//   duration: string;
+//   description: string;
+// }
 
 export interface Publication {
   title: string;
@@ -40,7 +40,7 @@ export interface PortfolioData {
   university: string;
   about: string;
   researchInterests: string[];
-  experience: Experience[];
+  // experience: Experience[];
   publications: Publication[];
   awards: Award[];
   news: NewsItem[];
