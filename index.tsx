@@ -9,7 +9,7 @@ import { Header } from './src/components/Header';
 import { AboutSection } from './src/components/AboutSection';
 import { NewsSection } from './src/components/NewsSection';
 import { ExpandButton } from './src/components/ExpandButton';
-import { ExperienceSection } from './src/components/ExperienceSection';
+// import { ExperienceSection } from './src/components/ExperienceSection';
 import { PublicationsSection } from './src/components/PublicationsSection';
 import { AwardsSection } from './src/components/AwardsSection';
 import { Footer } from './src/components/Footer';
@@ -86,7 +86,7 @@ const App = () => {
           {!isExpanded && <ExpandButton onClick={() => setIsExpanded(true)} />}
 
           <div className={`transition-all ease-in-out duration-1000 overflow-hidden ${isExpanded ? 'max-h-[5000px] opacity-100' : 'max-h-0 opacity-0'}`}>
-            <ExperienceSection experience={portfolioData.experience} />
+            {/* <ExperienceSection experience={portfolioData.experience} /> */}
             <PublicationsSection publications={portfolioData.publications} />
             <AwardsSection awards={portfolioData.awards} />
             <Footer name={portfolioData.name} />
