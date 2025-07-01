@@ -6,7 +6,7 @@ interface NavMenuProps {
 }
 
 export const NavMenu: React.FC<NavMenuProps> = ({ activeSection, isExpanded }) => {
-  const navItems = ['about', 'news', 'publications', 'awards'];
+  const navItems = ['about', 'news', 'publications', 'awards']; 
   // const navItems = ['about', 'news', 'experience', 'publications', 'awards'];
 
   const handleNavClick = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>, targetId: string) => {
