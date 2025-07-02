@@ -33,6 +33,11 @@ export interface NewsItem {
   link?: string;
 }
 
+export interface NavItem {
+  id: string;
+  label: string;
+}
+
 export interface PortfolioData {
   name: string;
   profileImage: string;
@@ -45,4 +50,5 @@ export interface PortfolioData {
   awards: Award[];
   news: NewsItem[];
   contact: Contact;
+  navItems: NavItem[];
 }

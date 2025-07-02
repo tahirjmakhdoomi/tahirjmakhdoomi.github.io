@@ -6,7 +6,7 @@ export const portfolioData: PortfolioData = {
   profileImage: "/me.jpg",
   title: "PhD @ AI4Bharat, Computer Science & Engineering",
   university: "Indian Institute of Technology Madras",
-  about: "I’m a PhD student at IIT Madras, working in the AI4Bharat lab with Dr. Mitesh M. Khapra. My research focuses on building speech technology for low-resource languages, especially those spoken across India. I work on developing accurate speech recognition systems, creating high-quality benchmarks, and collecting diverse datasets. I’m also exploring how these systems can keep learning over time as new languages and data are added. My goal is to make speech technology useful and accessible for everyone, no matter what language they speak.",
+  about: "I'm a PhD student at IIT Madras, working in the AI4Bharat lab with Dr. Mitesh M. Khapra. My research focuses on building speech technology for low-resource languages, especially those spoken across India. I work on developing accurate speech recognition systems, creating high-quality benchmarks, and collecting diverse datasets. I'm also exploring how these systems can keep learning over time as new languages and data are added. My goal is to make speech technology useful and accessible for everyone, no matter what language they speak.",
   researchInterests: [
     "Speech Recognition",
     "Multilingual ASR",
@@ -113,5 +113,11 @@ export const portfolioData: PortfolioData = {
     github: "https://github.com/tahirjmakhdoomi",
     twitter: "#",
   },
+  navItems: [
+    { id: 'about', label: 'About' },
+    { id: 'news', label: 'News' },
+    { id: 'publications', label: 'Publications' },
+    { id: 'awards', label: 'Awards' },
+  ],
 };
 // --- END OF EDITABLE SECTION ---
