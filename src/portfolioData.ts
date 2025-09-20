@@ -62,7 +62,7 @@ export const portfolioData: PortfolioData = {
     {
       title: "IndicVoices: Towards building an Inclusive Multilingual Speech Dataset for Indian Languages",
       authors: "Javed et al.",
-      journal: "ACL, 2024",
+      journal: "ACL, 2024" ,
       link: "https://arxiv.org/abs/2403.01926",
     },
     {
@@ -104,9 +104,9 @@ export const portfolioData: PortfolioData = {
       { name: "Certificate of Honor from CETPA for remarkable performance", year: "" },
   ],
   news: [
-      { date: "June 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025." },
-      { date: "June 2024", title: "Received the Microsoft Research India PhD Award."},
-      { date: "June 2024", title: "Our paper 'LAHAJA' was accepted to Interspeech 2024." },
+      { date: "Jun 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025." },
+      { date: "Jun 2024", title: "Received the Microsoft Research India PhD Award."},
+      { date: "Jun 2024", title: "Our paper 'LAHAJA' was accepted to Interspeech 2024." },
       { date: "May 2024", title: "Our paper 'IndicVoices' was accepted to Findings of ACL 2024." },
       { date: "May 2023", title: "Our paper 'Svarah' has been accepted to Interspeech 2023." },
       { date: "Oct 2022", title: "Received the Google PhD Fellowship." },
