@@ -114,7 +114,7 @@ export const portfolioData: PortfolioData = {
   ],
   contact: {
     email: "mailto:tahirjmakhdoomi@gmail.com",
-    cv: "/cv/cv.df",
+    cv: "/cv/cv.pdf",
     googleScholar: "https://scholar.google.com/citations?user=MGsT47cAAAAJ",
     linkedin: "https://www.linkedin.com/in/tahirjmakhdoomi",
     github: "https://github.com/tahirjmakhdoomi",
