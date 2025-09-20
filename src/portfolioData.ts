@@ -104,9 +104,9 @@ export const portfolioData: PortfolioData = {
       { name: "Certificate of Honor from CETPA for remarkable performance", year: "" },
   ],
   news: [
-      { date: "June 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025.", link: "#" },
-      { date: "June 2024", title: "Received the Microsoft Research India PhD Award.", link: "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/" },
-      { date: "June 2024", title: "Our paper 'LAHAJA' was accepted to Interspeech 2024.", link: "" },
+      { date: "June 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025." },
+      { date: "June 2024", title: "Received the Microsoft Research India PhD Award."},
+      { date: "June 2024", title: "Our paper 'LAHAJA' was accepted to Interspeech 2024." },
       { date: "May 2024", title: "Our paper 'IndicVoices' was accepted to Findings of ACL 2024." },
       { date: "May 2023", title: "Our paper 'Svarah' has been accepted to Interspeech 2023." },
       { date: "Oct 2022", title: "Received the Google PhD Fellowship." },
