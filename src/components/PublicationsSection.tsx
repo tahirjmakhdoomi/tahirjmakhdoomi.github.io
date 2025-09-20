@@ -9,7 +9,7 @@ interface PublicationsSectionProps {
     publications: Publication[];
 }
 
-const PUBLICATIONS_THRESHOLD = 3;
+const PUBLICATIONS_THRESHOLD = 4;
 
 export const PublicationsSection: React.FC<PublicationsSectionProps> = ({ publications }) => {
     const [isExpanded, setIsExpanded] = useState(false);
