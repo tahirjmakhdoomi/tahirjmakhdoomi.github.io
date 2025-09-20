@@ -61,7 +61,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       title: "IndicVoices: Towards building an Inclusive Multilingual Speech Dataset for Indian Languages",
-      authors: "Javed et al.",
+      authors: "Tahir Javed, Janki Nawale, Eldho George, Sakshi Joshi, Kaushal Bhogale, Deovrat Mehendale, Ishvinder Sethi, Aparna Ananthanarayanan, Hafsah Faquih, Pratiti Palit, Sneha Ravishankar, Saranya Sukumaran, Tripura Panchagnula, Sunjay Murali, Kunal Gandhi, Ambujavalli R, Manickam M, C Vaijayanthi, Krishnan Karunganni, Pratyush Kumar, Mitesh Khapra",
       journal: "ACL, 2024" ,
       link: "https://arxiv.org/abs/2403.01926",
     },
