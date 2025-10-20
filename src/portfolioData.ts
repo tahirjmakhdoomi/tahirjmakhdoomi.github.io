@@ -121,6 +121,7 @@ export const portfolioData: PortfolioData = {
     },
   ],
   awards: [
+      { name: "Institute Research (IR) Award by IIT Madras", year: "2025", link: ""},
       { name: "Microsoft Research India PhD Award Recipient", year: "2024", link: "https://www.microsoft.com/en-us/research/academic-program/microsoft-research-india-phd-award/" },
       { name: "Google PhD Fellowship Recipient", year: "2022", link: "https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2022" },
       { name: "PMRF Recipient", year: "2021" },
@@ -128,6 +129,7 @@ export const portfolioData: PortfolioData = {
       { name: "Certificate of Honor from CETPA for remarkable performance", year: "" },
   ],
   news: [
+      { date: "Oct 2025", title: "Received the Institute Research (IR) Award by IIT Madras" },
       { date: "Jun 2025", title: "Our paper 'Recognizing Every Voice' received the Best Theme Paper Award at Interspeech 2025." },
       { date: "Jun 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025." },
       { date: "Jun 2024", title: "Received the Microsoft Research India PhD Award."},
