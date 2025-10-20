@@ -129,7 +129,9 @@ export const portfolioData: PortfolioData = {
       { name: "Certificate of Honor from CETPA for remarkable performance", year: "" },
   ],
   news: [
-      { date: "Oct 2025", title: "Received the Institute Research (IR) Award by IIT Madras" },
+      { date: "Oct 2025", title: "Delivered a seminar talk at the Indian Institute of Technology (IIT) Jammu." },
+      { date: "Oct 2025", title: "Delivered a brief talk about my research at NIT Srinagar as a part of Alumni Back to Classroom (ABC) programme" },
+      { date: "Oct 2025", title: "Received the Institute Research (IR) Award from IIT Madras" },
       { date: "Jun 2025", title: "Our paper 'Recognizing Every Voice' received the Best Theme Paper Award at Interspeech 2025." },
       { date: "Jun 2025", title: "Our paper 'Nirantar' has been accepted to Interspeech 2025." },
       { date: "Jun 2024", title: "Received the Microsoft Research India PhD Award."},
