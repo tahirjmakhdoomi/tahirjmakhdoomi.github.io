@@ -129,6 +129,7 @@ export const portfolioData: PortfolioData = {
       { name: "Certificate of Honor from CETPA for remarkable performance", year: "" },
   ],
   news: [
+      { date: "Mar 2026", title: "I will be joining Google DeepMind, Bangalore, as a Research Scientist, starting March 23. 🎉" },
       { date: "Oct 2025", title: "Delivered a seminar talk at the Indian Institute of Technology (IIT) Jammu." },
       { date: "Oct 2025", title: "Delivered a brief talk about my research at NIT Srinagar as a part of Alumni Back to Classroom (ABC) programme" },
       { date: "Oct 2025", title: "Received the Institute Research (IR) Award from IIT Madras" },
